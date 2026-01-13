@@ -1,0 +1,8 @@
+{
+  "name": "my-dummy-plugin",
+  "description": "A dummy plugin demonstrating skills and commands for learning purposes",
+  "version": "1.0.0",
+  "author": {
+    "name": "Aryan Gupta"
+  }
+}
