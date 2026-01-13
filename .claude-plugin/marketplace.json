@@ -1,0 +1,14 @@
+{
+  "name": "aryan-elite-plugins",
+  "owner": {
+    "name": "Aryan Gupta"
+  },
+  "plugins": [
+    {
+      "name": "my-dummy-plugin",
+      "source": ".",
+      "description": "A dummy plugin demonstrating skills and commands for learning purposes",
+      "version": "1.0.0"
+    }
+  ]
+}
