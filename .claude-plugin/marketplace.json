@@ -6,7 +6,7 @@
   "plugins": [
     {
       "name": "my-dummy-plugin",
-      "source": ".."
+      "source": "./.claude-plugin"
     }
   ]
 }
